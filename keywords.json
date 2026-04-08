@@ -315,9 +315,9 @@
             "a": "had known"
         },
         {
-            "s": "I don't have his number, so I can't call him. If I ______ his number, I would call him.",
-            "c": "HAD",
-            "a": "had"
+            "s": "I don't have his number, so I can't call him. If I ______ , I would call him.",
+            "c": "HIS",
+            "a": "had his mumber"
         },
         {
             "s": "We didn't see the sign, so we took the wrong turn. We ______ the wrong turn if we had seen the sign.",
