@@ -467,14 +467,14 @@
             "a": "are capable of telling"
         },
         {
-            "s": "Although designers tried hard, modern extras were a necessity. Although designers tried hard, ______ modern extras like fire exits.",
+            "s": "Although designers tried hard, modern extras were a necessity to have. Although designers tried hard, ______ modern extras like fire exits.",
             "c": "NECESSARY",
-            "a": "it was necessary to include"
+            "a": "it was necessary to have"
         },
         {
             "s": "I'm sure that Shakespeare didn't write this play himself. Shakespeare ______ this play himself.",
-            "c": "CANNOT",
-            "a": "cannot have written"
+            "c": "COULD",
+            "a": "could not have written"
         },
         {
             "s": "It was possible for the middle classes to invest in decor for the first time. The middle classes ______ in decor for the first time.",
@@ -482,9 +482,9 @@
             "a": "were able to invest"
         },
         {
-            "s": "Doctors said they would manage to cure patients with shocks. Doctors said they would ______ patients with shocks.",
+            "s": "Doctors said they would manage to cure patients with shocks. Doctors said they ______ patients with shocks.",
             "c": "SUCCEED",
-            "a": "succeed in curing"
+            "a": "would succeed in curing"
         },
         {
             "s": "You ought to try some spring water from this area. It ______ some spring water from this area.",
@@ -524,7 +524,7 @@
         {
             "s": "There is a possibility that the rain forests will disappear. The rain forests ______ altogether.",
             "c": "COULD",
-            "a": "could well disappear"
+            "a": "could disappear"
         },
         {
             "s": "It is your duty to preserve the environment. You ______ the environment.",
@@ -539,12 +539,12 @@
         {
             "s": "It was impossible for the actors to perform during the plague. The actors ______ during the plague.",
             "c": "COULD",
-            "a": "could not have performed"
+            "a": "could not perform"
         },
         {
             "s": "You are not allowed to enter the stage area. Entry to the stage area ______.",
             "c": "FORBIDDEN",
-            "a": "is strictly forbidden"
+            "a": "is forbidden"
         },
         {
             "s": "We were forced to leave the building because of the fire. We ______ the building because of the fire.",
@@ -553,13 +553,13 @@
         },
         {
             "s": "It's a pity you didn't see the play. You ______ the play.",
-            "c": "OUGHT",
-            "a": "ought to have seen"
+            "c": "SHOULD",
+            "a": "should have seen"
         },
         {
-            "s": "He was able to speak five languages fluently. He ______ five languages fluently.",
-            "c": "CAPACITY",
-            "a": "had the capacity to speak"
+            "s": "He could speak five languages fluently. He ______ five languages fluently.",
+            "c": "CAPABLE",
+            "a": ["was capable of speaking", "was capable to speak"]
         },
         {
             "s": "There was no need for you to bring an umbrella. You ______ an umbrella.",
@@ -568,8 +568,8 @@
         },
         {
             "s": "I'm sure the King didn't enjoy the play. The King ______ the play.",
-            "c": "CANNOT",
-            "a": "cannot have enjoyed"
+            "c": "COULD",
+            "a": "could not have enjoyed"
         },
         {
             "s": "It is essential that visitors follow the safety rules. Visitors ______ the safety rules.",
