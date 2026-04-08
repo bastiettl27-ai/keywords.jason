@@ -1,0 +1,1069 @@
+{
+    "Passive": [
+        {
+            "s": "In 1614 the King’s Men Playing Company rebuilt the theatre. In 1614 the theatre ______ the King’s Men Playing Company.",
+            "c": "WAS",
+            "a": "was rebuilt by"
+        },
+        {
+            "s": "My grandfather built this house in 1960. This house ______ in 1960.",
+            "c": "BUILT",
+            "a": "was built by my grandfather"
+        },
+        {
+            "s": "Shakespeare wrote \"Hamlet\" around 1600. \"Hamlet\" ______ around 1600.",
+            "c": "WRITTEN",
+            "a": "was written by Shakespeare"
+        },
+        {
+            "s": "Alexander Fleming discovered penicillin in 1928. Penicillin ______ in 1928.",
+            "c": "DISCOVERED",
+            "a": "was discovered by Alexander Fleming"
+        },
+        {
+            "s": "The heavy rain caused the flood. The flood ______ the heavy rain.",
+            "c": "CAUSED",
+            "a": "was caused by"
+        },
+        {
+            "s": "A famous architect designed this school. This school ______ a famous architect.",
+            "c": "BY",
+            "a": "was designed by"
+        },
+        {
+            "s": "Lightning struck the old oak tree. The old oak tree ______ lightning.",
+            "c": "STRUCK",
+            "a": "was struck by"
+        },
+        {
+            "s": "J.K. Rowling wrote the Harry Potter books. The Harry Potter books ______ J.K. Rowling.",
+            "c": "WERE",
+            "a": "were written by"
+        },
+        {
+            "s": "The police arrested the burglars last night. The burglars ______ last night.",
+            "c": "BY",
+            "a": "were arrested by the police"
+        },
+        {
+            "s": "Fire destroyed the forest. The forest ______ fire.",
+            "c": "WAS",
+            "a": "was destroyed by"
+        },
+        {
+            "s": "Steven Spielberg directed the movie. The movie ______ Steven Spielberg.",
+            "c": "DIRECTED",
+            "a": "was directed by"
+        },
+        {
+            "s": "Leonardo da Vinci painted the Mona Lisa. The Mona Lisa ______ Leonardo da Vinci.",
+            "c": "PAINTED",
+            "a": "was painted by"
+        },
+        {
+            "s": "A local gardener maintains the park. The park ______ a local gardener.",
+            "c": "IS",
+            "a": "is maintained by"
+        },
+        {
+            "s": "The teacher corrected our exams yesterday. Our exams ______ yesterday.",
+            "c": "WERE",
+            "a": "were corrected by the teacher"
+        },
+        {
+            "s": "Thomas Edison invented the light bulb. The light bulb ______ Thomas Edison.",
+            "c": "INVENTED",
+            "a": "was invented by"
+        },
+        {
+            "s": "The cat killed the mouse. The mouse ______ the cat.",
+            "c": "KILLED",
+            "a": "was killed by"
+        },
+        {
+            "s": "A car hit the dog. The dog ______ a car.",
+            "c": "BY",
+            "a": "was hit by"
+        },
+        {
+            "s": "Many people speak English all over the world. English ______ many people.",
+            "c": "SPOKEN",
+            "a": "is spoken by"
+        },
+        {
+            "s": "The company employs five hundred people. Five hundred people ______ the company.",
+            "c": "ARE",
+            "a": "are employed by"
+        },
+        {
+            "s": "The storm damaged the roof. The roof ______ the storm.",
+            "c": "WAS",
+            "a": "was damaged by"
+        },
+        {
+            "s": "Christopher Columbus discovered America. America ______ Christopher Columbus.",
+            "c": "BY",
+            "a": "was discovered by"
+        },
+        {
+            "s": "The chef prepares the food fresh. The food ______ fresh.",
+            "c": "PREPARED",
+            "a": "is prepared by the chef"
+        },
+        {
+            "s": "An expert will check your car. Your car ______ an expert.",
+            "c": "CHECKED",
+            "a": "will be checked by"
+        },
+        {
+            "s": "A famous singer sang the anthem. The anthem ______ a famous singer.",
+            "c": "SUNG",
+            "a": "was sung by"
+        },
+        {
+            "s": "Millions of tourists visit Munich. Munich ______ millions of tourists.",
+            "c": "VISITED",
+            "a": "is visited by"
+        },
+        {
+            "s": "The government changed the law. The law ______ the government.",
+            "c": "WAS",
+            "a": "was changed by"
+        },
+        {
+            "s": "A professional photographer took the picture. The picture ______ a professional photographer.",
+            "c": "TAKEN",
+            "a": "was taken by"
+        },
+        {
+            "s": "The gardener waters the plants every day. The plants ______ every day.",
+            "c": "ARE",
+            "a": "are watered by the gardener"
+        },
+        {
+            "s": "My sister cleaned the kitchen. The kitchen ______ my sister.",
+            "c": "CLEANED",
+            "a": "was cleaned by"
+        },
+        {
+            "s": "The principal opened the new library. The new library ______ the principal.",
+            "c": "OPENED",
+            "a": "was opened by"
+        }
+    ],
+    "Reported Speech": [
+        {
+            "s": "\"I am tired,\" said Mark. Mark said ______ tired.",
+            "c": "THAT",
+            "a": "that he was"
+        },
+        {
+            "s": "\"We are going to the cinema,\" they told us. They told us they ______ to the cinema.",
+            "c": "WERE",
+            "a": "were going"
+        },
+        {
+            "s": "\"I have lost my keys,\" she explained. She explained that she ______ her keys.",
+            "c": "HAD",
+            "a": "had lost"
+        },
+        {
+            "s": "\"I will call you tomorrow,\" said Tom. Tom said he ______ the next day.",
+            "c": "WOULD",
+            "a": "would call me"
+        },
+        {
+            "s": "\"Stop talking!\" the teacher said to us. The teacher ______ talking.",
+            "c": "TOLD",
+            "a": "told us to stop"
+        },
+        {
+            "s": "\"Do you like pizza?\" he asked me. He asked me ______ pizza.",
+            "c": "IF",
+            "a": "if I liked"
+        },
+        {
+            "s": "\"Where is the station?\" she asked. She asked where the station ______.",
+            "c": "WAS",
+            "a": "was"
+        },
+        {
+            "s": "\"I can't swim,\" said Sarah. Sarah said she ______.",
+            "c": "COULD",
+            "a": "could not swim"
+        },
+        {
+            "s": "\"Don't open the window!\" my mum said. My mum told me ______ the window.",
+            "c": "NOT",
+            "a": "not to open"
+        },
+        {
+            "s": "\"I saw a great film yesterday,\" he said. He said he had seen a great film ______.",
+            "c": "BEFORE",
+            "a": "the day before"
+        },
+        {
+            "s": "\"I'm living in London now,\" said Jane. Jane said she ______ in London then.",
+            "c": "WAS",
+            "a": "was living"
+        },
+        {
+            "s": "\"Have you finished your homework?\" he asked. He asked me if I ______ my homework.",
+            "c": "HAD",
+            "a": "had finished"
+        },
+        {
+            "s": "\"We must leave at once,\" they said. They said they ______ at once.",
+            "c": "HAD",
+            "a": "had to leave"
+        },
+        {
+            "s": "\"I'll help you with that,\" said Dad. Dad said he ______ me with that.",
+            "c": "HELP",
+            "a": "would help"
+        },
+        {
+            "s": "\"I visited Paris last year,\" she said. She said she ______ Paris the year before.",
+            "c": "VISITED",
+            "a": "had visited"
+        },
+        {
+            "s": "\"Are you coming to the party?\" they asked me. They asked me if ______ to the party.",
+            "c": "COMING",
+            "a": "I was coming"
+        },
+        {
+            "s": "\"Please sit down,\" the doctor said. The doctor ______ sit down.",
+            "c": "ASKED",
+            "a": "asked me to"
+        },
+        {
+            "s": "\"I don't know the answer,\" said Peter. Peter said he ______ the answer.",
+            "c": "DID",
+            "a": "did not know"
+        },
+        {
+            "s": "\"We will be late,\" he warned. He warned us that we ______ late.",
+            "c": "BE",
+            "a": "would be"
+        },
+        {
+            "s": "\"What are you doing?\" she asked him. She asked him what ______.",
+            "c": "DOING",
+            "a": "he was doing"
+        },
+        {
+            "s": "\"I've been working hard,\" he said. He said he ______ hard.",
+            "c": "BEEN",
+            "a": "had been working"
+        },
+        {
+            "s": "\"Can you open the door, please?\" she asked. She asked me ______ the door.",
+            "c": "TO",
+            "a": "to open"
+        },
+        {
+            "s": "\"I'm not going to tell you,\" he said. He said he ______ tell me.",
+            "c": "NOT",
+            "a": "was not going to"
+        },
+        {
+            "s": "\"We bought a new car,\" they told us. They told us they ______ a new car.",
+            "c": "BOUGHT",
+            "a": "had bought"
+        },
+        {
+            "s": "\"Stay in bed,\" the doctor told him. The doctor told him ______ in bed.",
+            "c": "STAY",
+            "a": "to stay"
+        },
+        {
+            "s": "\"Where did you go?\" she asked. She asked me where ______.",
+            "c": "GONE",
+            "a": "I had gone"
+        },
+        {
+            "s": "\"I'll see you here tomorrow,\" he said. He said he would see me ______ the next day.",
+            "c": "THERE",
+            "a": "there"
+        },
+        {
+            "s": "\"Don't forget your books!\" said the teacher. The teacher told us ______ our books.",
+            "c": "FORGET",
+            "a": "not to forget"
+        },
+        {
+            "s": "\"I may be late,\" said Julia. Julia said she ______ late.",
+            "c": "MIGHT",
+            "a": "might be"
+        },
+        {
+            "s": "\"Why are you crying?\" he asked. He asked her why ______ crying.",
+            "c": "SHE",
+            "a": "she was"
+        }
+    ],
+    "If-clauses": [
+        {
+            "s": "The train was late, so I missed the meeting. I ______ the meeting if the train had been on time.",
+            "c": "MISSED",
+            "a": "would not have missed"
+        },
+        {
+            "s": "She didn't know the answer, so she didn't pass. If she ______ the answer, she would have passed.",
+            "c": "KNOWN",
+            "a": "had known"
+        },
+        {
+            "s": "I don't have his number, so I can't call him. If I ______ his number, I would call him.",
+            "c": "HAD",
+            "a": "had"
+        },
+        {
+            "s": "We didn't see the sign, so we took the wrong turn. We ______ the wrong turn if we had seen the sign.",
+            "c": "TAKEN",
+            "a": "would not have taken"
+        },
+        {
+            "s": "He doesn't feel well, so he won't come. ______ well, he wouldn't come.",
+            "c": "UNLESS",
+            "a": "Unless he felt"
+        },
+        {
+            "s": "The weather was bad, so they stayed inside. They ______ inside if the weather had been good.",
+            "c": "STAYED",
+            "a": "would not have stayed"
+        },
+        {
+            "s": "I am not hungry, so I won't eat. I ______ eat unless I were hungry.",
+            "c": "NOT",
+            "a": "will not"
+        },
+        {
+            "s": "You didn't ask me, so I didn't help you. If you ______ me, I would have helped you.",
+            "c": "ASKED",
+            "a": "had asked"
+        },
+        {
+            "s": "The shops are closed, so we can't buy milk. If the shops ______, we could buy milk.",
+            "c": "WERE",
+            "a": "were open"
+        },
+        {
+            "s": "He arrived late, so he didn't see the start. He ______ the start if he had arrived earlier.",
+            "c": "SEEN",
+            "a": "would have seen"
+        },
+        {
+            "s": "She isn't here, so she doesn't know. If she ______, she would know.",
+            "c": "WAS",
+            "a": "was here"
+        },
+        {
+            "s": "It rained, so we didn't play tennis. We ______ tennis if it hadn't rained.",
+            "c": "PLAYED",
+            "a": "would have played"
+        },
+        {
+            "s": "I don't speak Spanish, so I can't understand. ______ Spanish, I could understand.",
+            "c": "SPOKE",
+            "a": "If I spoke"
+        },
+        {
+            "s": "They didn't listen, so they made a mistake. If they ______ they wouldn't have made a mistake.",
+            "c": "LISTENED",
+            "a": "had listened"
+        },
+        {
+            "s": "You don't try, so you don't succeed. You ______ succeed unless you try.",
+            "c": "NOT",
+            "a": "will not"
+        },
+        {
+            "s": "The water was too cold to swim in. We ______ in the water if it had been warmer.",
+            "c": "SWUM",
+            "a": "would have swum"
+        },
+        {
+            "s": "He forgot the keys, so he couldn't enter. If he ______ the keys, he could have entered.",
+            "c": "FORGOTTEN",
+            "a": "had not forgotten"
+        },
+        {
+            "s": "I am too tired to go out. If I ______ so tired, I would go out.",
+            "c": "WAS",
+            "a": "was not"
+        },
+        {
+            "s": "She didn't study hard, so she failed. She ______ if she had studied hard.",
+            "c": "PASSED",
+            "a": "would have passed"
+        },
+        {
+            "s": "We didn't have a map, so we got lost. We ______ if we had had a map.",
+            "c": "GOT",
+            "a": "would not have got lost"
+        },
+        {
+            "s": "I'll go only if you come with me. I ______ unless you come with me.",
+            "c": "NOT",
+            "a": "will not go"
+        },
+        {
+            "s": "The soup was too salty, so he didn't eat it. He ______ the soup if it hadn't been so salty.",
+            "c": "EATEN",
+            "a": "would have eaten"
+        },
+        {
+            "s": "He doesn't like fish, so he didn't order it. If he ______ fish, he would have ordered it.",
+            "c": "LIKED",
+            "a": "had liked"
+        },
+        {
+            "s": "The film was boring, so we left. We ______ if the film hadn't been boring.",
+            "c": "STAYED",
+            "a": "would have stayed"
+        },
+        {
+            "s": "I didn't see the light, so I didn't stop. If I ______ the light, I would have stopped.",
+            "c": "SEEN",
+            "a": "had seen"
+        },
+        {
+            "s": "It is very cold, so I am wearing a coat. I ______ a coat unless it was very cold.",
+            "c": "WEARING",
+            "a": "would not be wearing"
+        },
+        {
+            "s": "They didn't win because they didn't play well. They ______ if they had played well.",
+            "c": "WON",
+            "a": "would have won"
+        },
+        {
+            "s": "I can't help you because I don't know the way. ______ the way, I would help you.",
+            "c": "IF",
+            "a": "If I knew"
+        },
+        {
+            "s": "She was ill, so she missed the party. She ______ the party if she hadn't been ill.",
+            "c": "WOULD",
+            "a": "would not have missed"
+        },
+        {
+            "s": "You don't exercise, so you aren't fit. If you ______ you would be fit.",
+            "c": "EXERCISED",
+            "a": "had exercised"
+        }
+    ],
+    "Modals and Substitutes": [
+        {
+            "s": "With a solid knowledge of geography you will be good at identifying areas. A solid knowledge ______ identify areas of healthy water.",
+            "c": "ENABLE",
+            "a": "will enable you to"
+        },
+        {
+            "s": "Specialists can tell from the rock where the water comes from. Specialists ______ from the rock where the water comes from.",
+            "c": "CAPABLE",
+            "a": "are capable of telling"
+        },
+        {
+            "s": "Although designers tried hard, modern extras were a necessity. Although designers tried hard, ______ modern extras like fire exits.",
+            "c": "NECESSARY",
+            "a": "it was necessary to include"
+        },
+        {
+            "s": "I'm sure that Shakespeare didn't write this play himself. Shakespeare ______ this play himself.",
+            "c": "CANNOT",
+            "a": "cannot have written"
+        },
+        {
+            "s": "It was possible for the middle classes to invest in decor for the first time. The middle classes ______ in decor for the first time.",
+            "c": "WERE",
+            "a": "were able to invest"
+        },
+        {
+            "s": "Doctors said they would manage to cure patients with shocks. Doctors said they would ______ patients with shocks.",
+            "c": "SUCCEED",
+            "a": "succeed in curing"
+        },
+        {
+            "s": "You ought to try some spring water from this area. It ______ some spring water from this area.",
+            "c": "ADVISABLE",
+            "a": "is advisable to try"
+        },
+        {
+            "s": "Perhaps the Globe Theatre burnt down because of a cannon. The Globe Theatre ______ down because of a cannon.",
+            "c": "MIGHT",
+            "a": "might have burnt"
+        },
+        {
+            "s": "It is vital that we recognize the reasons for deforestation. We ______ the reasons for deforestation.",
+            "c": "MUST",
+            "a": "absolutely must recognize"
+        },
+        {
+            "s": "I am certain that the Puritans didn't like the entertainment. The Puritans ______ the entertainment.",
+            "c": "CANNOT",
+            "a": "cannot have liked"
+        },
+        {
+            "s": "Is it allowed to take photos inside the theatre? ______ to take photos inside the theatre?",
+            "c": "PERMITTED",
+            "a": "Is it permitted"
+        },
+        {
+            "s": "It wasn't necessary for them to rebuild the theatre so quickly. They ______ the theatre so quickly.",
+            "c": "NEED",
+            "a": "need not have rebuilt"
+        },
+        {
+            "s": "I managed to find the original design of the building. I ______ the original design of the building.",
+            "c": "SUCCEEDED",
+            "a": "succeeded in finding"
+        },
+        {
+            "s": "There is a possibility that the rain forests will disappear. The rain forests ______ altogether.",
+            "c": "COULD",
+            "a": "could well disappear"
+        },
+        {
+            "s": "It is your duty to preserve the environment. You ______ the environment.",
+            "c": "SUPPOSED",
+            "a": "are supposed to preserve"
+        },
+        {
+            "s": "I'm sure the builders used old techniques for the roof. The builders ______ old techniques for the roof.",
+            "c": "MUST",
+            "a": "must have used"
+        },
+        {
+            "s": "It was impossible for the actors to perform during the plague. The actors ______ during the plague.",
+            "c": "COULD",
+            "a": "could not have performed"
+        },
+        {
+            "s": "You are not allowed to enter the stage area. Entry to the stage area ______.",
+            "c": "FORBIDDEN",
+            "a": "is strictly forbidden"
+        },
+        {
+            "s": "We were forced to leave the building because of the fire. We ______ the building because of the fire.",
+            "c": "HAD",
+            "a": "had to leave"
+        },
+        {
+            "s": "It's a pity you didn't see the play. You ______ the play.",
+            "c": "OUGHT",
+            "a": "ought to have seen"
+        },
+        {
+            "s": "He was able to speak five languages fluently. He ______ five languages fluently.",
+            "c": "CAPACITY",
+            "a": "had the capacity to speak"
+        },
+        {
+            "s": "There was no need for you to bring an umbrella. You ______ an umbrella.",
+            "c": "HAVE",
+            "a": "didn't have to bring"
+        },
+        {
+            "s": "I'm sure the King didn't enjoy the play. The King ______ the play.",
+            "c": "CANNOT",
+            "a": "cannot have enjoyed"
+        },
+        {
+            "s": "It is essential that visitors follow the safety rules. Visitors ______ the safety rules.",
+            "c": "BOUND",
+            "a": "are bound to follow"
+        },
+        {
+            "s": "Maybe they didn't understand the instructions. They ______ the instructions.",
+            "c": "MIGHT",
+            "a": "might not have understood"
+        },
+        {
+            "s": "You shouldn't have ignored the warning signs. You ______ the warning signs.",
+            "c": "BETTER",
+            "a": "had better not have ignored"
+        },
+        {
+            "s": "Was he able to complete the reconstruction on time? Did ______ the reconstruction on time?",
+            "c": "MANAGE",
+            "a": "he manage to complete"
+        },
+        {
+            "s": "I am sure that the fire started in the kitchen. The fire ______ in the kitchen.",
+            "c": "MUST",
+            "a": "must have started"
+        },
+        {
+            "s": "You are not required to pay for the tickets in advance. You ______ for the tickets in advance.",
+            "c": "NEED",
+            "a": "do not need to pay"
+        },
+        {
+            "s": "It is likely that the weather will improve tomorrow. The weather ______ tomorrow.",
+            "c": "EXPECTED",
+            "a": "is expected to improve"
+        }
+    ],
+    "Ing-Form and to-infinitive": [
+        {
+            "s": "It is a waste of time to wait for him any longer. It ______ for him any longer.",
+            "c": "WORTH",
+            "a": "is not worth waiting"
+        },
+        {
+            "s": "Although he was injured, he finished the race. ______ , he finished the race.",
+            "c": "DESPITE",
+            "a": "Despite having an injury"
+        },
+        {
+            "s": "I am excited about meeting your parents tomorrow. I ______ your parents tomorrow.",
+            "c": "FORWARD",
+            "a": "look forward to meeting"
+        },
+        {
+            "s": "She didn't buy the dress because it was too expensive. She ______ the expensive dress.",
+            "c": "AVOIDED",
+            "a": "avoided buying"
+        },
+        {
+            "s": "It is possible that he forgot our appointment. He ______ our appointment.",
+            "c": "MIGHT",
+            "a": "might have forgotten"
+        },
+        {
+            "s": "\"I'm sorry I'm late,\" he said. He ______ late.",
+            "c": "APOLOGISED",
+            "a": "apologised for being"
+        },
+        {
+            "s": "I really want to see that new film. That new film is ______ to see.",
+            "c": "WORTH",
+            "a": "worth going"
+        },
+        {
+            "s": "Even though she was tired, she kept working. ______ , she kept working.",
+            "c": "DESPITE",
+            "a": "Despite being tired"
+        },
+        {
+            "s": "I can't wait to go on holiday next week. I am ______ on holiday next week.",
+            "c": "FORWARD",
+            "a": "looking forward to going"
+        },
+        {
+            "s": "He didn't go to the party; he stayed at home instead. ______ to the party, he stayed at home.",
+            "c": "INSTEAD",
+            "a": "Instead of going"
+        },
+        {
+            "s": "Is it okay if I open the window? Do ______ the window?",
+            "c": "MIND",
+            "a": "you mind me opening"
+        },
+        {
+            "s": "I'm sure she didn't see me. She ______ me.",
+            "c": "CANNOT",
+            "a": "cannot have seen"
+        },
+        {
+            "s": "It's no use crying over spilt milk. It ______ over spilt milk.",
+            "c": "WORTH",
+            "a": "is not worth crying"
+        },
+        {
+            "s": "Although the weather was bad, they went for a walk. ______ , they went walking.",
+            "c": "DESPITE",
+            "a": "Despite the bad weather"
+        },
+        {
+            "s": "I'm really happy that I'll see you soon. I am ______ you soon.",
+            "c": "FORWARD",
+            "a": "looking forward to seeing"
+        },
+        {
+            "s": "He didn't say goodbye; he just left the room. ______ he just left the room.",
+            "c": "WITHOUT",
+            "a": "Without saying goodbye"
+        },
+        {
+            "s": "I'm interested in finding out more about this topic. It ______ more about this topic.",
+            "c": "INTERESTS",
+            "a": "interests me to find"
+        },
+        {
+            "s": "Maybe they missed the train. They ______ the train.",
+            "c": "MIGHT",
+            "a": "might have missed"
+        },
+        {
+            "s": "This book is so good you must read it. This book is ______ .",
+            "c": "WORTH",
+            "a": "definitely worth reading"
+        },
+        {
+            "s": "Even though he had no money, he was happy. ______ , he was happy.",
+            "c": "DESPITE",
+            "a": "Despite"
+        },
+        {
+            "s": "I'm looking forward to hearing from you soon. I ______ from you soon.",
+            "c": "WAIT",
+            "a": "cannot wait to hear"
+        },
+        {
+            "s": "He didn't call me; he sent a text message instead. ______ me, he sent a text message.",
+            "c": "INSTEAD",
+            "a": "Instead of calling"
+        },
+        {
+            "s": "I don't like it when people shout at me. I ______ at me.",
+            "c": "AVOID",
+            "a": "avoid people shouting"
+        },
+        {
+            "s": "It is certain that he stole the money. He ______ the money.",
+            "c": "MUST",
+            "a": "must have stolen"
+        },
+        {
+            "s": "It is a good idea to visit the museum. The museum is ______ .",
+            "c": "WORTH",
+            "a": "worth visiting"
+        },
+        {
+            "s": "People say that the mysterious house is haunted. The mysterious house ______ haunted.",
+            "c": "SAID",
+            "a": "is said to be"
+        },
+        {
+            "s": "I am excited about starting my new job. I am ______ my new job.",
+            "c": "FORWARD",
+            "a": "looking forward to starting"
+        },
+        {
+            "s": "She didn't eat the cake because she was on a diet. She ______ the cake.",
+            "c": "AVOIDED",
+            "a": "avoided eating"
+        },
+        {
+            "s": "I'm sure they were at home last night. They ______ at home last night.",
+            "c": "MUST",
+            "a": "must have been"
+        },
+        {
+            "s": "It's a waste of money to buy this car. This car is ______ .",
+            "c": "WORTH",
+            "a": "not worth buying"
+        }
+    ],
+    "Comparison of adjectives": [
+        {
+            "s": "No other student in the school is as tall as Tim. Tim is ______ in the school.",
+            "c": "THE",
+            "a": "the tallest student"
+        },
+        {
+            "s": "I have never seen a more boring film than this one. This is ______ I have ever seen.",
+            "c": "MOST",
+            "a": "the most boring film"
+        },
+        {
+            "s": "Driving a car is more expensive than riding a bike. Riding a bike is ______ than driving a car.",
+            "c": "EXPENSIVE",
+            "a": "not as expensive as"
+        },
+        {
+            "s": "My new smartphone is not as fast as my old one. My old smartphone ______ my new one.",
+            "c": "THAN",
+            "a": "was faster than"
+        },
+        {
+            "s": "This exercise is easier than the last one we did. The last exercise ______ this new one.",
+            "c": "NOT",
+            "a": "was not as easy as"
+        },
+        {
+            "s": "I didn't expect the test to be so difficult. The test was ______ I had expected.",
+            "c": "MORE",
+            "a": "more difficult than"
+        },
+        {
+            "s": "Silver is expensive, but gold is even more expensive. Silver is ______ gold.",
+            "c": "NOT",
+            "a": "not as expensive as"
+        },
+        {
+            "s": "This is the best cake I have ever tasted. I have ______ good cake before.",
+            "c": "NEVER",
+            "a": "never tasted such a"
+        },
+        {
+            "s": "No one in the team plays better than Sarah. Sarah is ______ in the team.",
+            "c": "PLAYER",
+            "a": "the best player"
+        },
+        {
+            "s": "The weather today is worse than it was yesterday. The weather yesterday was ______ it is today.",
+            "c": "BETTER",
+            "a": "better than"
+        },
+        {
+            "s": "A bus is not as fast as a train. A train is ______ a bus.",
+            "c": "FASTER",
+            "a": "faster than"
+        },
+        {
+            "s": "This book is more interesting than any other in the library. This is ______ in the library.",
+            "c": "MOST",
+            "a": "the most interesting book"
+        },
+        {
+            "s": "I've never seen such a beautiful sunset. This is ______ I have ever seen.",
+            "c": "THE",
+            "a": "the most beautiful sunset"
+        },
+        {
+            "s": "Learning English is easier than learning Chinese. Learning Chinese is ______ learning English.",
+            "c": "DIFFICULT",
+            "a": "more difficult than"
+        },
+        {
+            "s": "My brother is slightly older than me. I am ______ my brother.",
+            "c": "YOUNGER",
+            "a": "a bit younger than"
+        },
+        {
+            "s": "The blue car is cheaper than the red one. The red car is ______ the blue one.",
+            "c": "EXPENSIVE",
+            "a": "more expensive than"
+        },
+        {
+            "s": "I thought the play would be better. The play was ______ I had thought.",
+            "c": "NOT",
+            "a": "not as good as"
+        },
+        {
+            "s": "This is the least expensive watch in the shop. All the other watches in the shop ______ this one.",
+            "c": "MORE",
+            "a": "are more expensive than"
+        },
+        {
+            "s": "He is the most talented singer I know. I don't know a singer who ______ him.",
+            "c": "TALENTED",
+            "a": "is more talented than"
+        },
+        {
+            "s": "Your room is tidier than mine. My room is ______ yours.",
+            "c": "AS",
+            "a": "not as tidy as"
+        },
+        {
+            "s": "This summer was hotter than any other before. This was ______ we have ever had.",
+            "c": "THE",
+            "a": "the hottest summer"
+        },
+        {
+            "s": "Planes are faster than ships. Ships are ______ .",
+            "c": "PLANES",
+            "a": "slower than planes"
+        },
+        {
+            "s": "He doesn't work as hard as his sister. His sister works ______ .",
+            "c": "HIM",
+            "a": "harder than him"
+        },
+        {
+            "s": "This suitcase is very heavy; I can't lift it. This suitcase is ______  to lift.",
+            "c": "TOO",
+            "a": "too heavy for me"
+        },
+        {
+            "s": "The film wasn't as exciting as the book. The book was ______ the film was.",
+            "c": "MORE",
+            "a": "much more exciting than"
+        },
+        {
+            "s": "Mount Everest is the highest mountain in the world. No other mountain ______ Mount Everest.",
+            "c": "AS",
+            "a": "is as high as"
+        },
+        {
+            "s": "The pizza was not large enough for three people. The pizza was ______ .",
+            "c": "SMALL",
+            "a": "too small for three people"
+        },
+        {
+            "s": "She is the most intelligent person I've ever met. I have ______ an intelligent person.",
+            "c": "NEVER",
+            "a": "never met such an"
+        },
+        {
+            "s": "My sister is as tall as my mother now. My mother is ______ sister.",
+            "c": "TALL",
+            "a": "not as tall as my"
+        },
+        {
+            "s": "The journey took longer than we had planned. The journey was ______ we had planned.",
+            "c": "NOT",
+            "a": "not as short as"
+        }
+    ],
+    "Special structures": [
+        {
+            "s": "He doesn't like coffee, and he doesn't like tea either. He likes ______ tea.",
+            "c": "NOR",
+            "a": "neither coffee nor"
+        },
+        {
+            "s": "I last saw him three years ago. I ______ three years.",
+            "c": "SINCE",
+            "a": "have not seen him since"
+        },
+        {
+            "s": "It was a very beautiful day, so we went out. It was ______ that we went out.",
+            "c": "SUCH",
+            "a": "such a beautiful day"
+        },
+        {
+            "s": "People say that he is a very talented artist. He ______ a very talented artist.",
+            "c": "SAID",
+            "a": "is said to be"
+        },
+        {
+            "s": "You are expected to arrive at 8 o'clock. You ______ at 8 o'clock.",
+            "c": "SUPPOSED",
+            "a": "are supposed to arrive"
+        },
+        {
+            "s": "When I was a child, I went swimming every day. I ______ swimming every day as a child.",
+            "c": "USED",
+            "a": "used to go"
+        },
+        {
+            "s": "It's a pity I didn't see the documentary. I ______ the documentary.",
+            "c": "MISS",
+            "a": "did not want to miss"
+        },
+        {
+            "s": "She is very happy because she won the prize. She is ______ the prize.",
+            "c": "PROUD",
+            "a": "proud of having won"
+        },
+        {
+            "s": "It isn't necessary for you to wait for me. There is ______  you to wait.",
+            "c": "NO",
+            "a": "no need for"
+        },
+        {
+            "s": "I haven't been to London for five years. It's ______ I last went to London.",
+            "c": "SINCE",
+            "a": "five years since"
+        },
+        {
+            "s": "He was so tired that he fell asleep immediately. He was ______ he fell asleep immediately.",
+            "c": "SO",
+            "a": "so tired that"
+        },
+        {
+            "s": "They say that the castle was built in the 12th century. The castle ______ built in the 12th century.",
+            "c": "SAID",
+            "a": "is said to have been"
+        },
+        {
+            "s": "It is prohibited to park your car in front of the gate. You are ______ your car there.",
+            "c": "NOT",
+            "a": "not supposed to park"
+        },
+        {
+            "s": "My grandfather always smoked a pipe in the evenings. My grandfather ______ a pipe in the evenings.",
+            "c": "USED",
+            "a": "used to smoke"
+        },
+        {
+            "s": "I'm sure it was a mistake to sell the house. I ______ the house.",
+            "c": "WANT",
+            "a": "did not want to sell"
+        },
+        {
+            "s": "He is very happy about his new job. He ______ his new job.",
+            "c": "PROUD",
+            "a": "is proud of"
+        },
+        {
+            "s": "I've known her for a long time. I ______ a long time.",
+            "c": "SINCE",
+            "a": "have known her since"
+        },
+        {
+            "s": "It was such a loud noise that I couldn't sleep. The noise ______ that I couldn't sleep.",
+            "c": "WAS",
+            "a": "was so loud"
+        },
+        {
+            "s": "He was expected to call me yesterday, but he didn't. He ______ me yesterday.",
+            "c": "SUPPOSED",
+            "a": "was supposed to call"
+        },
+        {
+            "s": "There was no swimming pool here in the past. There ______ a swimming pool here.",
+            "c": "USE",
+            "a": "did not use to be"
+        },
+        {
+            "s": "I really want to go to the concert tonight. I ______ the concert tonight.",
+            "c": "WANT",
+            "a": "want to go to"
+        },
+        {
+            "s": "Neither my brother nor my sister can drive. My brother can't drive and ______ .",
+            "c": "NOR",
+            "a": "nor can my sister"
+        },
+        {
+            "s": "I haven't eaten anything since breakfast. The last time ______ at breakfast.",
+            "c": "WAS",
+            "a": "I ate was"
+        },
+        {
+            "s": "It was a very boring book, so I didn't finish it. It was ______ that I didn't finish it.",
+            "c": "SUCH",
+            "a": "such a boring book"
+        },
+        {
+            "s": "People believe that she is living abroad. She ______ living abroad.",
+            "c": "SAID",
+            "a": "is said to be"
+        },
+        {
+            "s": "You shouldn't be here at this time. You ______ here now.",
+            "c": "SUPPOSED",
+            "a": "are not supposed to be"
+        },
+        {
+            "s": "Did you have a habit of biting your nails? ______ bite your nails?",
+            "c": "USED",
+            "a": "Did you use to"
+        },
+        {
+            "s": "It is too cold to go for a swim today. It isn't ______ for a swim.",
+            "c": "WARM",
+            "a": "warm enough to go"
+        },
+        {
+            "s": "He is not a doctor, and his father isn't one either. Neither he ______ is a doctor.",
+            "c": "NOR",
+            "a": "nor his father"
+        },
+        {
+            "s": "It's been two months since it last rained. It ______ two months.",
+            "c": "WAS",
+            "a": "has not rained for"
+        }
+    ],
+    "Thema 8": [],
+    "Thema 9": [],
+    "Thema 10": []
+}
